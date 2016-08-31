@@ -1,7 +1,7 @@
 {
   "name": "angular-cordova-onesignal",
   "description": "AngularJS module that wraps onesignal-cordova-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "angular-cordova-onesignal.js",
   "ignore": [
     "sample",

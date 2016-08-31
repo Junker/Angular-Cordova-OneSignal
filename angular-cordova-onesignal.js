@@ -60,7 +60,7 @@
 
     function RipCordovaOnesignalService($log, $q, $rootScope, $window, config) {
 
-        const TAG = 'RipCordovaOnesignalService:\t';
+        var TAG = 'RipCordovaOnesignalService:\t';
 
         var svc = this;
 
